@@ -29,6 +29,7 @@
 * [Спецификация HTML](https://www.w3.org/TR/html/)
 * [Спецификация HTML, перевод](http://spec.piraruco.com/html5/index.htm)
 * [Обсуждения о правильном использовании тегов в комментариях](http://html5doctor.com/computer-says-no-to-html5-document-outline/)
+* [The i, b, em, &amp; strong elements](http://html5doctor.com/i-b-em-strong-element/)
 
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 * (Как отличить контентное изображение от декоративного)
