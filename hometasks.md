@@ -6,11 +6,23 @@
 2. Зарегистрироваться на [github](https://github.com/)
 3. Выбрать, скачать и установить интерфейсную программу для работы с git'ом.(если не знаешь какую выбрать бери [GitHub Desktop](https://desktop.github.com/), от разработчиков github'a).
 3. Ознакомится с материалами первого занятия.
+4. [Пройти интерактивные курсы:](https://htmlacademy.ru/program)
+  * «Знакомство»
+  * «Структура HTML-документа»
+  * «Разметка текста с помощью HTML»
+  * «Ссылки и изображения»
+  * «Знакомство с таблицами»
+  * «Знакомство с HTML5»
 
 ## Занятие 2 ##
 
-1. Форкни этот репозиторий
-2. Руководствуясь [материалом 2го занятия](https://docs.google.com/document/d/1VbU4OrDhqmG5P4hMce00WUGjX107JZcIOejqgAUGrAs/edit?usp=sharing) выполни два задания в папке [tasks](https://github.com/teach-visionstudio/course_vs/tree/master/tasks).
-3. Выполненые задачи закомить в свой форк.
-2. [Скачать главный шаблон личного проекта](https://drive.google.com/file/d/1-YNWuxLKAFHmmd0paiUQ2yD8uSiOMFIR/view?usp=sharing)
-3. Начать разметку
+1. [Скачать главный шаблон личного проекта](https://drive.google.com/file/d/1-YNWuxLKAFHmmd0paiUQ2yD8uSiOMFIR/view?usp=sharing)
+2. Начать разметку проекта.
+
+## Занятие 3 ##
+
+1. [Пройти интерактивные курсы:](https://htmlacademy.ru/program)
+  * [«Знакомство с CSS»](https://htmlacademy.ru/courses/41)
+  * [«Оформление текста», часть 1»](https://htmlacademy.ru/courses/43)
+  * [«Фоны», часть 1»](https://htmlacademy.ru/courses/53)
+2. Начать базовую стилизацию своего проекта
