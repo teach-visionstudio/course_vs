@@ -1,5 +1,9 @@
 # Материалы #
 
+## Общие ##
+
+* [Запись видео доклада: Фронтенд для новичка. Куда идти и что делать?](https://youtu.be/G9hMm77B1dk)
+
 ## Занятие 1 ##
 
 [Обзор редакторов для верстальщика.](https://drive.google.com/open?id=1GknqsuUZZUhHrKTSwxuACkWM7uOqGPiP)
