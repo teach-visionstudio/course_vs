@@ -4,7 +4,7 @@
 
 * [Запись видео доклада: Фронтенд для новичка. Куда идти и что делать?](https://youtu.be/G9hMm77B1dk)
 
-## Занятие 1 ##
+## Занятие 1: Как работают сайты, git ##
 
 [Обзор редакторов для верстальщика.](https://drive.google.com/open?id=1GknqsuUZZUhHrKTSwxuACkWM7uOqGPiP)
 
@@ -29,7 +29,7 @@
 * [Как оформлять коммиты, чтобы потом не было больно.](https://habrahabr.ru/company/Voximplant/blog/276695/)
 * [Скринкасты...Скоро]
 
-## Занятие 2 ##
+## Занятие 2: HTML ##
 
 _О разметке:_
 * [Спецификация HTML](https://www.w3.org/TR/html/)
@@ -77,3 +77,7 @@ _Справочники по css:_
 * [w3schools](https://www.w3schools.com/cssref/default.asp)
 * [css-помощник](https://lesson-web.ru/modules/css_helper)
 * [Карманный справочник CSS(книга)](http://shop.oreilly.com/product/0636920015055.do)
+
+_Селекторы:_
+* [CSS для JavaScript-разработчика](https://learn.javascript.ru/css-selectors)
+* [CSS Diner - интерактивная игра, обучающая работе с селекторами](https://flukeout.github.io/)
