@@ -20,13 +20,25 @@
 
 > новости фронтенда и все, что касается веб-дизайна и пр. cопутствующее.
 
+* [AlistApart](https://alistapart.com/)
+* [SaraSoueidan’s](https://www.sarasoueidan.com/)
+* [Codrops](https://tympanus.net/codrops/)
+* [CssWeekly](https://css-weekly.com/archives/)
+* [CssWizardy](https://csswizardry.com/)
 * [Impressivewebs](https://www.impressivewebs.com/)
 
 ### На русском ###
 
+* [CSS-live](http://css-live.ru/)
+
+> Переводы вестей фронтенда с западных полей.
+
 * [For Web](http://forwebdev.ru/)
 
 > Русское сообщество по фронтенду, собирает последние новости в кучу.
+
+* [uWebDesign](https://uwebdesign.ru/)
+* [LoveFrontend](http://lovefrontend.ru/)
 
 ## Подкасты ##
 

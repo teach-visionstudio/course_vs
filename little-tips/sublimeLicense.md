@@ -8,7 +8,7 @@
         127.0.0.1 www.sublimetext.com
         127.0.0.1 license.sublimehq.com
 
-2. Used the license key
+2. Использовать лицензионный ключ
 ```
 ----- BEGIN LICENSE -----
 sgbteam
