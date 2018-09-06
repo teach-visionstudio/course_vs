@@ -81,3 +81,9 @@ _Справочники по css:_
 _Селекторы:_
 * [CSS для JavaScript-разработчика](https://learn.javascript.ru/css-selectors)
 * [CSS Diner - интерактивная игра, обучающая работе с селекторами](https://flukeout.github.io/)
+
+_Цвета:_
+* [HTML Colors](https://www.w3schools.com/html/html_colors.asp)
+* [Теория цвета в цифрах](https://habr.com/post/189766/)
+* [The Material Design color system ](https://material.io/design/color/)
+* [Перестаньте использовать RGB цвета](https://slonoed.net/stop-using-rgb-colors-ru)
